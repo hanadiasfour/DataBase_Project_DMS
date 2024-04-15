@@ -1,6 +1,6 @@
 # Car Dealership Management System
 
-The Car Dealership Management System is a collaborative project developed by @HanadiAsfour, @AmaniAlshikh, and @FalasteenAbuAli. Built using JavaFX, this system provides functionalities for efficiently managing a car dealership.
+The Car Dealership Management System is a collaborative project. Built using JavaFX, this system provides functionalities for efficiently managing a car dealership.
 
 ## Overall Description:
 
@@ -15,3 +15,17 @@ Our project is a Car Dealership Management System designed and implemented using
 
 ## Credits:
 This project was a collaborative effort, with Hanadi Asfour, Falasteen Abu Ali, and Amani Alshikh contributing to the design and implementation.
+
+
+## Sample of GUI:
+
+### Statistics Tab:
+![1](https://github.com/hanadiasfour/DataBase_Project_DMS/assets/91291021/3aeefa37-8837-4d22-a81e-4b224b0485cc)
+
+### Managment of Cars and Manufacturers
+![2](https://github.com/hanadiasfour/DataBase_Project_DMS/assets/91291021/6e775471-3c04-4365-b83b-9698e06bc848)
+![3](https://github.com/hanadiasfour/DataBase_Project_DMS/assets/91291021/634361cb-a690-4edf-8768-c024404b8b47)
+![4](https://github.com/hanadiasfour/DataBase_Project_DMS/assets/91291021/78b98a6a-ed35-4ad1-b421-7b8794815eb7)
+![5](https://github.com/hanadiasfour/DataBase_Project_DMS/assets/91291021/7c41211c-6710-4310-9ad5-729777cabfd0)
+![6](https://github.com/hanadiasfour/DataBase_Project_DMS/assets/91291021/2f0afa59-47d5-4fed-897c-60a8060d80e4)
+![7](https://github.com/hanadiasfour/DataBase_Project_DMS/assets/91291021/7137e30a-e6dd-45e9-b5cc-be0303914014)
