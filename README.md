@@ -1,6 +1,6 @@
 # Car Dealership Management System
 
-The Car Dealership Management System is a collaborative project. Built using JavaFX, this system provides functionalities for efficiently managing a car dealership.
+The Car Dealership Management System is a collaborative project. Built using JavaFX, this system provides functionalities for efficiently managing a car dealership. The main objective was to learn how to design and use a relational database within our project. 
 
 ## Overall Description:
 
@@ -16,6 +16,8 @@ Our project is a Car Dealership Management System designed and implemented using
 ## Credits:
 This project was a collaborative effort, with Hanadi Asfour, Falasteen Abu Ali, and Amani Alshikh contributing to the design and implementation.
 
+## Database ERD:
+![8](https://github.com/hanadiasfour/DataBase_Project_DMS/assets/91291021/692a01a2-9a34-42c4-99b9-9fbee31c9282)
 
 ## Sample of GUI:
 
