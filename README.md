@@ -4,7 +4,7 @@ The Car Dealership Management System is a collaborative project. Built using Jav
 
 ## Overall Description:
 
-Our project is a Car Dealership Management System designed and implemented using JavaFX. As a team, we developed a user-friendly interface allowing users to easily interact with its functionalities. Users can add, remove, and filter cars, manufacturers, employees, and cutsomers. In addition,the system allows to schedule and cancel appointments, make car purchases, record customer payments, and view order history, manage inventory, customers, employees, and managers efficiently. Additionally, it includes a statistics page displaying key metrics such as
+Our project was developed using JavaFX to provide a user-friendly interface for its functionalities. Users can add, remove, and filter cars, manufacturers, employees, and cutsomers. In addition,the system allows to schedule and cancel appointments, make car purchases, record customer payments, and view order history, manage inventory, customers, employees, and managers efficiently. Additionally, it includes a statistics page displaying key metrics such as
 - The total number of suppliers, cars, brands, customers, and employees.
 - Financial data like the money made in the last month and the number of cars sold.
 - The employees of the month through a leaderboard.
